@@ -5,5 +5,5 @@ The place of the white disks and black disks should be change just with using of
 The maximum numbers of disks is 8.
 I hope this code be helpfull for you,Good luck!.
 + The Output :
-<img src="https://dump.cy.md/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg">
+<img src="C:\Users\Bali\OneDrive\Pictures\Screenshots\Hanoi.png">
 
