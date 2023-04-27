@@ -5,4 +5,4 @@ The place of the white disks and black disks should be change just with using of
 The maximum numbers of disks is 8.
 I hope this code be helpfull for you,Good luck!.
 
-![](C:/Users/Bali/OneDrive/Pictures/Screenshots/Hanoi.png)
+![](C:\Users\Bali\OneDrive\Pictures\Screenshots\Hanoi.png)
